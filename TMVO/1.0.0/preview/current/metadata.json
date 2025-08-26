@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "runtimeVersion": "1.0.0",
   "bundler": "metro",
   "fileMetadata": {
