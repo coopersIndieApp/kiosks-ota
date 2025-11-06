@@ -1,10 +1,10 @@
 {
-  "version": 3,
+  "version": 1,
   "runtimeVersion": "1.0.0",
   "bundler": "metro",
   "fileMetadata": {
     "android": {
-      "bundle": "expo/static/js/android/entry-74b74b74d366362529a97ef256d2de62.hbc",
+      "bundle": "_expo/static/js/android/entry-907c58320720fccc02ac0205d32e95af.hbc",
       "assets": [
         { "path": "assets/778ffc9fe8773a878e9c30a6304784de", "ext": "png" },
         { "path": "assets/c79c3606a1cf168006ad3979763c7e0c", "ext": "png" },
@@ -30,6 +30,7 @@
         { "path": "assets/ab19f4cbc543357183a20571f68380a3", "ext": "png" },
         { "path": "assets/d8b800c443b8972542883e0b9de2bdc6", "ext": "png" },
         { "path": "assets/412dd9275b6b48ad28f5e3d81bb1f626", "ext": "png" },
+        { "path": "assets/017bc6ba3fc25503e5eb5e53826d48a8", "ext": "png" },
         { "path": "assets/20e71bdf79e3a97bf55fd9e164041578", "ext": "png" }
       ]
     }
