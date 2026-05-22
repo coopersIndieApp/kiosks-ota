@@ -4,7 +4,7 @@
   "bundler": "metro",
   "fileMetadata": {
     "android": {
-      "bundle": "expo/static/js/android/entry-8b5a062a5e0848d30ea7ed3a4e9ff1fe.hbc",
+      "bundle": "expo/static/js/android/entry-5fbbe8bcc210c1ea4c0695a40278ee14.hbc",
       "assets": [
         { "path": "assets/778ffc9fe8773a878e9c30a6304784de", "ext": "png" },
         { "path": "assets/c79c3606a1cf168006ad3979763c7e0c", "ext": "png" },
