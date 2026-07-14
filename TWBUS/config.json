@@ -1,11 +1,78 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-21",
+  "updatedAt": "2026-07-14",
   "devices": {
-    "TWBUS530106952306217": {
-      "IMSI": "530106952306217",
-      "stopIds": ["287755", "262300"],
-      "deviceId": ""
+    "e26ac750-3d00-41d2-a3f4-75e9c526db4b": {
+      "deviceName": "第一月台",
+      "deviceId": "e26ac750-3d00-41d2-a3f4-75e9c526db4b",
+      "IMSI": "89886972510700791401",
+      "stopIds": []
+    },
+    "baf64097-58e4-443d-9094-3733b97ac97a": {
+      "deviceName": "第二月台",
+      "deviceId": "baf64097-58e4-443d-9094-3733b97ac97a",
+      "IMSI": "89886972510700791393",
+      "stopIds": []
+    },
+    "f77f3c67-cc71-4430-a56f-5716a5555df4": {
+      "deviceName": "第三月台",
+      "deviceId": "f77f3c67-cc71-4430-a56f-5716a5555df4",
+      "IMSI": "89886972510700791385",
+      "stopIds": []
+    },
+    "bd06cb6d-2c34-4b5f-92f7-3a8ea1e7abda": {
+      "deviceName": "第四月台",
+      "deviceId": "bd06cb6d-2c34-4b5f-92f7-3a8ea1e7abda",
+      "IMSI": "89886972510700791377",
+      "stopIds": []
+    },
+    "dc3e6e0e-076c-4d40-9f02-eb02a2d024e5": {
+      "deviceName": "第五月台",
+      "deviceId": "dc3e6e0e-076c-4d40-9f02-eb02a2d024e5",
+      "IMSI": "89886972510700791369",
+      "stopIds": []
+    },
+    "d8990243-adb0-4159-bee4-acf7443bcad8": {
+      "deviceName": "第六月台",
+      "deviceId": "d8990243-adb0-4159-bee4-acf7443bcad8",
+      "IMSI": "89886972510700791351",
+      "stopIds": []
+    },
+    "94cbaa48-bec2-4f46-911c-6816a43ad39e": {
+      "deviceName": "第七月台",
+      "deviceId": "94cbaa48-bec2-4f46-911c-6816a43ad39e",
+      "IMSI": "89886972510700791344",
+      "stopIds": []
+    },
+    "e2d84099-ab43-4492-9ccf-726d3fc748c8": {
+      "deviceName": "第八月台",
+      "deviceId": "e2d84099-ab43-4492-9ccf-726d3fc748c8",
+      "IMSI": "89886972510700791336",
+      "stopIds": []
+    },
+    "6f8aa877-26b7-469c-877a-0a25a32e5eff": {
+      "deviceName": "第九月台",
+      "deviceId": "6f8aa877-26b7-469c-877a-0a25a32e5eff",
+      "IMSI": "89886972510700791328",
+      "stopIds": []
+    },
+    "757bbd0d-4798-46f1-bb90-d7c45d59057f": {
+      "deviceName": "第十月台",
+      "deviceId": "757bbd0d-4798-46f1-bb90-d7c45d59057f",
+      "IMSI": "89886972510700791310",
+      "stopIds": []
+    },
+    "6c949336-77d3-4175-a4a7-38637a85c2db": {
+      "deviceName": "第十一月台",
+      "deviceId": "6c949336-77d3-4175-a4a7-38637a85c2db",
+      "IMSI": "89886972510700791302",
+      "stopIds": []
+    },
+    "8dfc9a08-139d-4591-bd1e-1f77fd854e9e": {
+      "deviceName": "第十二月台",
+      "deviceId": "8dfc9a08-139d-4591-bd1e-1f77fd854e9e",
+      "IMSI": "89886972510700791294",
+      "stopIds": []
     }
   }
 }

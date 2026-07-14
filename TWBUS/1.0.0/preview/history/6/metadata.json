@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "bundlerVersion": "1.0.0",
+  "runtimeVersion": "1.0.0",
   "bundler": "metro",
   "fileMetadata": {
     "android": {
