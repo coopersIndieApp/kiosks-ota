@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "updatedAt": "2026-08-12",
+  "devices": {
+    "NCKUHTEST": {
+      "IMSI": "NCKUHTEST",
+      "deviceId": "NCKUHTEST"
+    }
+  }
+}
