@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-08-12",
+  "updatedAt": "2026-08-14",
   "devices": {
-    "NCKUHTEST": {
-      "IMSI": "NCKUHTEST",
-      "deviceId": "NCKUHTEST"
+    "e917e170-caea-4a44-aca3-8bfa47ed8831": {
+      "IMSI": "3",
+      "deviceId": "e917e170-caea-4a44-aca3-8bfa47ed8831"
     }
   }
 }
