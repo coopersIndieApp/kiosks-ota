@@ -1,10 +1,10 @@
 {
-  "version": 11,
+  "version": 12,
   "runtimeVersion": "1.0.0",
   "bundler": "metro",
   "fileMetadata": {
     "android": {
-      "bundle": "expo/static/js/android/entry-d83f58ccab917f931a2ab01a1261fc2d.hbc",
+      "bundle": "expo/static/js/android/entry-1749c97a425328c53827c493ccfd0449.hbc",
       "assets": [
         { "path": "assets/778ffc9fe8773a878e9c30a6304784de", "ext": "png" },
         { "path": "assets/c79c3606a1cf168006ad3979763c7e0c", "ext": "png" },
