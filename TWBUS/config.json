@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-09-30",
+  "updatedAt": "2026-11-01",
   "stopName": "水湳轉運中心",
   "devices": {
     "e26ac750-3d00-41d2-a3f4-75e9c526db4b": {
@@ -13,7 +13,8 @@
       "deviceName": "第二月台",
       "deviceId": "baf64097-58e4-443d-9094-3733b97ac97a",
       "IMSI": "89886972510700791393",
-      "tdxStopIds": []
+      "tdxStopIds": [312550],
+      "routes": ["6670"]
     },
     "f77f3c67-cc71-4430-a56f-5716a5555df4": {
       "deviceName": "第三月台",
